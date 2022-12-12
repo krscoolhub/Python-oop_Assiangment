@@ -532,6 +532,6 @@ def my_func():
 # Call the function
 my_func()
 
-# Print the global variable
+# Print the global variable.
 print(f"Global: x = {x}")
 
