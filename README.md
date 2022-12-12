@@ -29,7 +29,7 @@ other words, a class object describes the general characteristics of a class, wh
 Eg:
 class MyClass:
     # this is a class object
-    x = 5
+    x =5
     
     def __init__(self, y):
         self.y = y
