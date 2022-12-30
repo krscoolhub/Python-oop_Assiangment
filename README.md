@@ -4,7 +4,7 @@ Q1. What is the purpose of Python's OOP?
 
 Ans: The primary purpose of Python's object-oriented programming (OOP) is to provide a way to organize and structure your code in a logical and modular manner. OOP allows you to define classes, which are templates for creating objects. These objects can be used to represent real-world entities or abstract concepts, and they can contain both data (attributes) and behavior (methods).
 
-# Using OOP in Python has several benefits, including:
+Using OOP in Python has several benefits, including:
 
 Code reusability: By creating classes, you can define reusable code that can be used to create multiple objects. This reduces the need to write repetitive code and
 makes your code more efficient and maintainable.
